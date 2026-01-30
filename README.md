@@ -61,9 +61,8 @@ Dokumentacja API platformy [Intum](https://intum.pl) - system operacyjny firmy.
 - [AppStore](appstore.md) - marketplace aplikacji i płatnych dodatków
 - [Finance](finance.md) - fakturowanie, paragony fiskalne i płatności
   - [Faktury (Invoices)](finance.md#faktury-invoices) - Fakturownia: [github.com/fakturownia/API](https://github.com/fakturownia/API)
-  - [Paragony (eParagony)](finance.md#paragony-eparagony) - eParagony: [github.com/e-paragony/api](https://github.com/
+  - [Paragony (eParagony)](finance.md#paragony-eparagony) - eParagony: [github.com/e-paragony/api](https://github.com/e-paragony/api)
   - [Billing](billing.md) - plany, subskrypcje, płatności, kody promocyjne
-e-paragony/api)
 - [Konto](account.md) - użytkownicy, role, grupy, działy, domeny, tokeny API, webhooks
   - [Konto (Account)](account.md#konto-account) - dane konta, tworzenie nowych kont
   - [Użytkownicy (UserSettings)](account.md#użytkownicy-usersettings) - zarządzanie użytkownikami, masowe tworzenie, synchronizacja
