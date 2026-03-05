@@ -1,6 +1,8 @@
 # Intum API
 
 Dokumentacja API platformy [Intum](https://intum.pl) - system operacyjny firmy.
+Aktualna dokumentacja znajduje się w [https://intum.pl/pomoc.api](https://intum.pl/pomoc.api)
+Dokumentacja użytkownika jest na [https://intum.pl/pomoc](https://intum.pl/pomoc)
 
 ## Spis treści
 
